@@ -27,7 +27,7 @@
   <br/>
 </p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reficon) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](awahabmarvandi@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wahab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reficon) [![Gmail Badge](https://img.shields.io/badge/-wahab-white?style=flat&logo=Gmail&logoColor=red)](awahabmarvandi@gmail.com)
 
 
 ---
